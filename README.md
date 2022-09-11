@@ -43,4 +43,8 @@ I am a Software Engineer 💻 based in Pennsylvania!
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"  title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karenastevens&theme=dark&background=000000)](https://git.io/streak-stats)
 
