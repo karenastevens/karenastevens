@@ -41,6 +41,7 @@ I am a Software Engineer 💻 based in Pennsylvania!
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"  title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ---
