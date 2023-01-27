@@ -19,13 +19,12 @@
 
 I am a Software Engineer 💻 based in Pennsylvania!
 
-- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python/Javascript skills as well as grow with mentorship. 
+- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python/Javascript skills as well as grow with mentorship. Enthusiastic about solving everyday problems with code!
 
 - 🌱 Learning Docker and Microservices.
 
 - ⭐ Looking to explore Technical Content Writing 📂.
 
-- 🆓 In my free time I love to bake 🧁 and test my skills with Leetcode problems 🥇.
 
 ---
 
