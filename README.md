@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://twitter.com/karenastevens_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="[https://twitter.com/karenastevens_](https://www.linkedin.com/in/karena-stevens-798959256/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:karenastevens001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link"></a>
 </div>
 <div align="center">
@@ -17,14 +17,11 @@
 
 ### 👩‍💻 About Me:
 
-I am a Software Engineer 💻 based in Pennsylvania!
+I am a Full Stack Software Engineer 💻 based in Pennsylvania!
 
-- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python/Javascript skills as well as grow with mentorship. Enthusiastic about solving everyday problems with code!
+- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python/Javascript skills as well as grow with mentorship. Enthusiastic about solving everyday problems with code! 
 
-- 🌱 Learning Docker and Microservices.
-
-- ⭐ Looking to explore Technical Content Writing 📂.
-
+- 🌱 Currently delving deeper into cloud computing!
 
 ---
 
