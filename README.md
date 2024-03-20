@@ -19,7 +19,7 @@
 
 I am a Full Stack Software Engineer 💻 based in Pennsylvania!
 
-- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python/Javascript skills as well as grow with mentorship. Enthusiastic about solving everyday problems with code! 
+- 👓 I'm currently in the market for a job as a backend software engineer where I can apply my Python skills as well as grow with mentorship. Enthusiastic about solving everyday problems with code! 
 
 - 🌱 Currently delving deeper into cloud computing!
 
@@ -41,6 +41,3 @@ I am a Full Stack Software Engineer 💻 based in Pennsylvania!
 </div>
 
 ---
-
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karenastevens&theme=dark&background=000000)](https://git.io/streak-stats)
